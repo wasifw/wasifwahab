@@ -40,12 +40,13 @@
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasifwahab&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasifwahab&layout=compact&theme=radical)  
 
 ---
 
 ### 🔥 Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wasifwahab&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=wasifwahab&theme=radical)
 
 ---
 
